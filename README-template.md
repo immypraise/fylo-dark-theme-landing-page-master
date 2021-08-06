@@ -42,7 +42,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/immypraise/fylo-dark-theme-landing-page-master)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site URL](https://immypraise.github.io/fylo-dark-theme-landing-page-master/)
 
 ## My process
 
